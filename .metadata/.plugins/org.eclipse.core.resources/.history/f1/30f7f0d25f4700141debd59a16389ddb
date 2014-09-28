@@ -1,0 +1,5 @@
+package clerk;
+
+public class Ticket {
+	int state = 1;
+}
